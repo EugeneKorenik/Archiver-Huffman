@@ -1,0 +1,13 @@
+﻿  HuffmanDecoder.cpp
+HuffmanDecoder.cpp(102): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+HuffmanDecoder.cpp(222): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  HuffmanEncoder.cpp
+HuffmanEncoder.cpp(51): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+HuffmanEncoder.cpp(192): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Main.cpp
+  Создание кода
+  11 of 805 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Archiver.vcxproj -> D:\Program Files\C++\Archiver - копия\Release\Archiver.exe

@@ -1,0 +1,4 @@
+﻿  HuffmanDecoder.cpp
+d:\program files\c++\archiver\archiver\huffmandecoder.cpp(76): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\program files\c++\archiver\archiver\huffmandecoder.cpp(176): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Archiver.vcxproj -> D:\Program Files\C++\Archiver\Debug\Archiver.exe
